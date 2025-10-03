@@ -1,4 +1,4 @@
-//Longest Subarray with Sum K - positives 
+//Longest Subarray with Sum K - positives and negatives
 //better solution
 
 import java.util.*;
